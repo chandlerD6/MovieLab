@@ -1,0 +1,6 @@
+MovieLab.txt by Chandler Ditolla SID: 18731640
+Everything compiles and runs with no memory leaks/errors. 
+In terms of difficulty I had the hardest time trying to implement 
+the spotlight function. I understood the algorithm to get the circle to move but I
+couldn't for the life of me get the circle to appear in the right location (upper left hand corner)
+at the start. Other than that everything went well and was manageable in terms of work load. 
